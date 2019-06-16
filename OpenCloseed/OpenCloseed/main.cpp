@@ -1,5 +1,4 @@
 #include <iostream>
-
 #include "ChineseTeacher.h"
 #include "MathTeacher.h"
 
